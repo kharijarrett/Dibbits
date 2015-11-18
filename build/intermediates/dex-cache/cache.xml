@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-56276fd18af9cea86b347a3d420df4032338381b.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-34ec3b8bb37f14f93b9b9c266068523d2b2c2b17.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-6b6447596eda174749ec5cadbbbeaeb66745632f.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-ea061a40404baed4abba2839cd947c32220d91a0.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-93bad72b521fb910fd400ccc2267ff0a03f670ec.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-9f9d63a4771b38ede5b90699b9d5d44ce3af7c05.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-764df639f015cea390107e75a382375c7f26ce2f.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-4648ab0b2598665a5ed195a0d9cb4cfc7f880a19.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-86198efede35985b877a5ecd0ef2d38945d23818.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-583fcc03785c525a9f1c22c6558f829ff4acbeec.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-53fd3fdbe99e88bd3574ec2e2c8ef475e6b16473.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-d734203c8bb0d2eb2bfea5ede9f3891f69357b3d.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-c903a41d87ab3085b1debd812f3d452960c1eab5.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-5ce07f0f5d9e38edc8686a39da0498fe53ddfd1a.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-6263e582357bbce15ec24934c000c804ccfb7392.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-c0d41b5ca9f4b071df336e7aec84a342d764c672.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-d7ff402a4dc3afe0210fe238e2ae7cfb5b48663a.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-8c4876fd6de090fa3f09e4675c317c3689d1cddb.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-fc583f622e37e7388fafe0a36f8c4acb65b46ce3.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-cfc428aec7237c0d29474b1950675a11e86be89b.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-f0b82a319e5fe2a7a4ec808aaccc1d390648fe51.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-780d70c9f3fb7f719e84203ecb1e4b69bd282ed4.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-eb8c427de1029c39b499b36183006ee24f2db35f.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-b47aa2204242781b45263d1efc745306058aa795.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-e674865cf404d4f55d71ab9dc6bb1c3678ac18b6.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-2ac5b6d31488f017a6008eeed681455dc9e6f344.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-c14772d6d63b2b34561e499097f8419ebebfccaf.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/classes-a95c2624b587d1eb7f9bf48526bb92c032d38304.jar" />
+    </item>
+    <item
+        jar="/Users/KJ/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/KJ/Downloads/CriminalIntent-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-0a04befdbb8c11b507549038c413201b13bfbf25.jar" />
+    </item>
+
+</items>
