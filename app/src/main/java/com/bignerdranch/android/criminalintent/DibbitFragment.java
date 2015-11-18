@@ -21,7 +21,7 @@ import java.util.Date;
 import java.util.UUID;
 
 /**
- * Created by user on 04/10/2015.
+ * Created by user on 04/10/2015
  */
 public class DibbitFragment extends Fragment {
 
